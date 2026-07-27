@@ -4,7 +4,7 @@ I am a Senior Software & Data Engineer specializing in building scalable, distri
 
 ## 🚀 Technical Expertise
 
-* **Languages:** Java, Scala, Kotlin, Python, TypeScript, SQL, Bash
+* **Languages:** Java, Scala, Kotlin, Python, Rust, TypeScript, SQL, Bash
 * **Frameworks & Backend:** Spring Boot (WebFlux, Data, Integration), Axon, Express.js
 * **Data Engineering & Streaming:** Apache Spark, Apache Kafka, Apache Airflow, Snowflake, Pentaho
 * **Databases & Enterprise Search:** PostgreSQL, Oracle, Cassandra, Google Cloud Spanner, Redis, Elasticsearch
