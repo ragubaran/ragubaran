@@ -1,30 +1,56 @@
 # Hi, I'm Ragubaran 👋
 
-I am a Senior Software & Data Engineer specialising in building scalable, distributed backend architectures, high-throughput streaming data pipelines, and real-time search platforms.
+Senior Software & Data Engineer with **9+ years of experience** specializing in high-throughput distributed backend architectures, streaming data pipelines, real-time search platforms, and AI agent infrastructure.
 
-## 🚀 Technical Expertise
-
-* **Languages:** Java, Scala, Kotlin, Python, Rust, TypeScript, SQL, Bash
-* **Frameworks & Backend:** Spring Boot (WebFlux, Data, Integration), Axon, Express.js
-* **Data Engineering & Streaming:** Apache Spark, Apache Kafka, Apache Airflow, Snowflake, Pentaho
-* **Databases & Enterprise Search:** PostgreSQL, Oracle, Cassandra, Google Cloud Spanner, Redis, Elasticsearch
-* **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Kubernetes, Docker, Terraform, CI/CD (CircleCI, Jenkins)
+Currently building resilient core banking microservices and real-time payment streaming pipelines at **iGreenData** (Client: ANZ Bank).
 
 ---
 
-## 🛠️ What I Do
+## ⚡ Quick Highlights & Impact
 
-* **Distributed Systems:** Designing event-driven microservices architectures with Spring Boot, Axon, and Kafka.
-* **Data Pipelines & Cloud Data Warehousing:** Engineering large-scale ETL pipelines processing S3 and Kafka data streams directly into Snowflake using Spark and Airflow.
-* **High-Performance Search:** Structuring sub-second search platforms utilizing Elasticsearch to aggregate and query enterprise datasets instantly.
-* **Resilient Infrastructure:** Containerizing workloads and managing cloud-native deployments with Kubernetes, Terraform, and automated CI/CD.
+- 🏦 **Enterprise FinTech & Banking:** 9+ years across ANZ Bank, JP Morgan & Chase, and Endowus architecting mission-critical microservices and event-sourced systems.
+- 🚀 **Sub-Millisecond Search Latency:** Designed Elasticsearch architectures achieving **< 2ms** query response times over high-volume enterprise datasets.
+- 📊 **High-Throughput Streaming:** Engineered ETL pipelines in Apache Spark, Kafka, and Airflow, optimizing data processing speed by **40%**.
+- 🤖 **AI Infrastructure & MCP:** Building Model Context Protocol (MCP) gateways, local LLM browser integrations, and tool-execution annotation systems for agentic workflows.
+- 🛡️ **Resilient Cloud & Observability:** Migrated core systems to Kubernetes with automated CI/CD, maintaining **99% system uptime** across distributed environments.
+
+---
+
+## 🛠️ Technical Toolbox
+
+| Category                       | Technologies & Tools                                                                                                 |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| **Languages**                  | Java, Python, TypeScript, Rust, Scala, Kotlin, SQL, Bash, Groovy                                                     |
+| **Backend & Microservices**    | Spring Boot (WebFlux, Data, Cloud Stream), Axon Framework (CQRS/ES), Node.js, Express.js, Next.js                    |
+| **AI Infrastructure & Agents** | Model Context Protocol (MCP), Local LLMs, AI Agent Advisors, Tool-Hinting Infrastructure                             |
+| **Data & Streaming**           | Apache Kafka, Apache Spark, Apache Airflow, Snowflake, Cassandra, PostgreSQL, Oracle DB, Google Cloud Spanner, Redis |
+| **Search & Analytics**         | Elasticsearch, Apache Solr, SpaCy (NLP)                                                                              |
+| **Cloud & DevOps**             | AWS, Google Cloud Platform (GCP), Kubernetes, Docker, Terraform, CircleCI, Jenkins                                   |
+| **Observability**              | Dynatrace, Splunk                                                                                                    |
+
+---
+
+## 🚀 What I Do
+
+- **Event-Driven Microservices:** Designing reactive, event-sourced architectures with Spring Boot, Axon Framework, and Apache Kafka.
+- **Cloud Data Engineering:** Engineering streaming and batch ETL data pipelines processing high-volume datasets into Snowflake and cloud data warehouses.
+- **Enterprise Search & NLP:** Building sub-second search platforms using Elasticsearch, custom analyzers, and SpaCy NER APIs.
+- **AI & Agentic Systems:** Developing custom MCP servers, model gateways, and local AI extensions to power agentic developer tools.
+- **Cloud Infrastructure & DevOps:** Containerizing enterprise workloads and setting up GitOps / CI/CD delivery on AWS, GCP, and Kubernetes.
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ragubaran&show_icons=true&theme=dark&count_private=true" alt="Ragubaran's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ragubaran&layout=compact&theme=dark&hide=html,css" alt="Top Languages" height="170" />
+</p>
+
 ---
 
-## 📫 How to Reach Me
-* **LinkedIn:** - https://www.linkedin.com/in/barantheva/
-* **Domain focus:** Distributed Systems | Event-Driven Architecture | Cloud Infrastructure
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/barantheva](https://www.linkedin.com/in/barantheva/)
+- 📍 **Location:** Melbourne, VIC, Australia
+- 🎯 **Domain Focus:** Distributed Systems | Event-Driven Architecture | AI Infrastructure & MCP | Data Engineering
