@@ -1,6 +1,6 @@
 # Hi, I'm Ragubaran 👋
 
-I am a Senior Software & Data Engineer specializing in building scalable, distributed backend architectures, high-throughput streaming data pipelines, and real-time search platforms.
+I am a Senior Software & Data Engineer specialising in building scalable, distributed backend architectures, high-throughput streaming data pipelines, and real-time search platforms.
 
 ## 🚀 Technical Expertise
 
@@ -22,9 +22,6 @@ I am a Senior Software & Data Engineer specializing in building scalable, distri
 ---
 
 ## 📊 GitHub Stats
-
-![Ragubaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragubaran&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragubaran&layout=compact&theme=radical)
 
 ---
 
