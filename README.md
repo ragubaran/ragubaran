@@ -2,7 +2,7 @@
 
 Senior Software & Data Engineer with **9+ years of experience** specializing in high-throughput distributed backend architectures, streaming data pipelines, real-time search platforms, and AI agent infrastructure.
 
-Currently building resilient core banking microservices and real-time payment streaming pipelines at **iGreenData** (Client: ANZ Bank).
+Currently building resilient core banking microservices and real-time payment streaming pipelines 
 
 ---
 
@@ -52,5 +52,4 @@ Currently building resilient core banking microservices and real-time payment st
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/barantheva](https://www.linkedin.com/in/barantheva/)
-- 📍 **Location:** Melbourne, VIC, Australia
 - 🎯 **Domain Focus:** Distributed Systems | Event-Driven Architecture | AI Infrastructure & MCP | Data Engineering
